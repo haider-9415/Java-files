@@ -1,2 +1,2 @@
 # Java-files
-it was created taking java classes by college wallah
+it was created during java classes by college wallah
